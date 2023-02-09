@@ -1,3 +1,3 @@
 #!/bin/bash
-deleting my first directory folder
+changing directory to the previous one
 

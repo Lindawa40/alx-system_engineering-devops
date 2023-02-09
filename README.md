@@ -1,2 +1,2 @@
 #!/bin/bash
-this file is in alx engineering devops
+creating scripts and printing commands using vi editor to run in the shell

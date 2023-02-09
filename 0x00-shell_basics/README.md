@@ -1,3 +1,3 @@
 #!/bin/bash
-Script is listing content present in current directory
+script to change from working directory to home directory
 

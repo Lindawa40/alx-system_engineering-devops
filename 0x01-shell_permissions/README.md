@@ -10,4 +10,5 @@ script 8-adds execution permission to the owner, the group owner and the other u
 script 9-sets permissions to Owner: no permission at all Group: no permission at all Other users: all the permissions
 script 10-sets the mode of the file hello to this
 script 11-sets the mode of the file hello the same as olleh’s mode.
+script 12-adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 

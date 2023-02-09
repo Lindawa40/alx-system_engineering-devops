@@ -1,3 +1,3 @@
 #!/bin/bash
-script 1 prints absolute path name of current directory
- 
+Script is listing content present in current directory
+

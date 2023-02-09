@@ -5,4 +5,5 @@ script 3-prints all groups the current user is part of
 script 4-changes file ownership to user betty
 script 5-creating new file hello
 script 6-adding execution permission to file owner of hello
+script 7-adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 

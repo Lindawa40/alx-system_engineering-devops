@@ -9,4 +9,5 @@ script 7-adds execute permission to the owner and the group owner, and read perm
 script 8-adds execution permission to the owner, the group owner and the other users, to the file hello
 script 9-sets permissions to Owner: no permission at all Group: no permission at all Other users: all the permissions
 script 10-sets the mode of the file hello to this
+script 11-sets the mode of the file hello the same as olleh’s mode.
 

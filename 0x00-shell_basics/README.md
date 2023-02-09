@@ -1,3 +1,3 @@
 #!/bin/bash
-copying all html files that were absent in parent dir from curren dir to parent dir
+listing all files even those beginning with period char in current dir,parent dir and /boot
 

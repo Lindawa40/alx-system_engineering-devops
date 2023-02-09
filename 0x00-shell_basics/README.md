@@ -1,2 +1,2 @@
 #!/bin/bash
-Listing files in long format
+listing all files even those with a period character

@@ -1,3 +1,3 @@
 #!/bin/bash
-Listing in format with digits only
+making a directory inside a directory
 

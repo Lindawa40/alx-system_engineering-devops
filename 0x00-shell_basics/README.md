@@ -1,3 +1,3 @@
 #!/bin/bash
-changing directory to the previous one
+listing all files even those with a period character in current and parent directory and /boot directory
 

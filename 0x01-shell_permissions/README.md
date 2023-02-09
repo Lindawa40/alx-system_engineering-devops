@@ -11,4 +11,5 @@ script 9-sets permissions to Owner: no permission at all Group: no permission at
 script 10-sets the mode of the file hello to this
 script 11-sets the mode of the file hello the same as olleh’s mode.
 script 12-adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
+script 13-creates a directory called mydir with permissions 751 in the working directory
 

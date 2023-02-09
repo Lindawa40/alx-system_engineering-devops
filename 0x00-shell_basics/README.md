@@ -1,3 +1,3 @@
 #!/bin/bash
-deleting file betty
+deleting my first directory folder
 

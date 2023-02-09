@@ -1,3 +1,3 @@
 #!/bin/bash
-making a directory inside a directory
-
+moving file betty to directory named my_first_directory
+ 

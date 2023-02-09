@@ -1,3 +1,2 @@
 #!/bin/bash
-script to change from working directory to home directory
-
+Listing files in long format

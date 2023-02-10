@@ -16,4 +16,5 @@ script 13-Create a symbolic link to /bin/ls, named __ls__
 script 14-copies all the HTML files from the cwd to parent but only those that did not exist in parent or were newer versions
 script 15-moves all files beginning with an uppercase letter to the directory /tmp/u
 script 16-deletes all files in the current working directory that end with the character ~
+script 17-creating multiple directories in current directory
 

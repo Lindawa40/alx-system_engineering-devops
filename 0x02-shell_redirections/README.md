@@ -10,4 +10,5 @@ script 7-creating a file '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)' containing the
 script 8-redirecting results of command ls -la to a file
 script 10-removing all .js extension files
 script 11-counting directories and sub directories in current directory
+script 12-displaying 10 newest files from newest to oldest
  

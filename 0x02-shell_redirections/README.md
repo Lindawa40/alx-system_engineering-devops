@@ -9,4 +9,5 @@ script 6-display the third line in file iacta without using sed command
 script 7-creating a file '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)' containing the text Best School ending by a new line
 script 8-redirecting results of command ls -la to a file
 script 10-removing all .js extension files
+script 11-counting directories and sub directories in current directory
  

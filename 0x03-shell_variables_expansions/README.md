@@ -15,4 +15,5 @@ script 12-prints all possible combinations of two letters, except oo
 script 13-prints a number with two decimal places
 script 14-converts a number from base 10 to base 16
 script 15-encodes and decodes text using the rot13 encryption. Assume ASCII
+script 16-prints every other line from the input, starting with the first line
 

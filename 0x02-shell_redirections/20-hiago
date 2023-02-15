@@ -1,2 +1,2 @@
 #!/bin/bash
-echo *[:alpha:]|grep -v c|C
+echo Chicago|grep -i | tr -d 'c' 

@@ -13,4 +13,5 @@ script 10-displays the result of BREATH to the power LOVE
 script 11- converts a number from base 2 to base 10 where number in base 2 is stored in the environment variable BINARY and script should display the number in base 10
 script 12-prints all possible combinations of two letters, except oo
 script 13-prints a number with two decimal places
+script 14-converts a number from base 10 to base 16
 

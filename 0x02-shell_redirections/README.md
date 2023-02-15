@@ -14,4 +14,5 @@ script 12-displaying 10 newest files from newest to oldest
 script 13-listing words then sorting and printing words that appear only once
 script 14-Display lines containing the pattern “root” from the file
 script 15-count lines with the pattern 'bin'
+script 16-Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
  

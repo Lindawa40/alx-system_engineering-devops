@@ -19,4 +19,5 @@ script 17-Display all the lines in the file /etc/passwd that do not contain the 
 script 18-Display all lines of the file /etc/ssh/sshd_config starting with a letter
 script 19-replace all characters A and c from input to Z and e respectively
 script 20-removes all letters c and C from input 
+script 21-reversing an input
 

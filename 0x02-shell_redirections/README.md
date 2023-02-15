@@ -11,4 +11,5 @@ script 8-redirecting results of command ls -la to a file
 script 10-removing all .js extension files
 script 11-counting directories and sub directories in current directory
 script 12-displaying 10 newest files from newest to oldest
+script 13-listing words then sorting and printing words that appear only once
  
